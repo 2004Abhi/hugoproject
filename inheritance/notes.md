@@ -1,0 +1,2 @@
+when object of child class is created first parent class constructor is executed then child class condtructor is executed.
+when we want inherit a parameterised constructor of a parent class we have to write     super(parameters) in the first line of the child class.
