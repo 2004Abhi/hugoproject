@@ -1,4 +1,4 @@
-package inheritance;
+
 //inheritance means a sub class aquires all the properties of a super class 
 //for this (extend)keyword is used
 class circle {
